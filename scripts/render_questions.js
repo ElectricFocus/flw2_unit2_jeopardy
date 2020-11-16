@@ -1,9 +1,6 @@
 let numCategories = categories.length;
 let questionValues = [100, 200, 300, 400, 500];
 
-for (let i = numCategories; i > 0; i++) {
-  console.log(i);
-}
 /* TODO: Program the following:
  *  Print a column of questions for each category.
  *
@@ -39,4 +36,22 @@ for (let i = numCategories; i > 0; i++) {
  */
 function renderQuestions() {
   // Add code here
+  let questionColumn = (
+    <div class="question">
+      <div class="question-cell">+ questionValues +</div>
+    </div>
+  );
+  let questionString =
+    questionColumn +
+    (
+      <div class="question-cell" data-category='"+i+"'>
+        {" "}
+        + questionValues +
+      </div>
+    );
+  for (let i = 0; i <= numCategories; i++) {
+    for (const element of questionValues) {
+      $("#questions").append(questionString);
+    }
+  }
 }

@@ -12,7 +12,7 @@ for (const element of categories) {
     "<div class='category'><div class='category-cell'>" +
     element +
     "</div></div>";
-  console.log(categoryHtml);
+  $("#categories").append(categoryHtml);
 }
 
 /* TODO: Program the following:
