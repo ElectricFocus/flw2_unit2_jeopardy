@@ -2,7 +2,7 @@ let categories = [
   "older cartoons",
   "Video Games",
   "Fears/phobia",
-  "sports",
+  "dark",
   "coding",
   "Painfully obvious"
 ];
@@ -46,7 +46,7 @@ function renderCategories() {
     "older categories",
     "Video games",
     "fears/phobia",
-    "sports",
+    "Going dark",
     "coding",
     "Painfully obvious"
   );

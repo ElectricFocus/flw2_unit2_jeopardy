@@ -1,70 +1,70 @@
 let questions_by_category = [{
-        category: "Robots",
+        category: "older cartoons",
         100: {
-            question_text: "SPOILER ALERT: HIS DYING WORDS IN THE ANIMATED TRANSFORMERS MOVIE ARE \"TIL ALL ARE ONE\"",
-            answer_text: "Who is Optimus Prime?",
+            question_text: "Come on double D!",
+            answer_text: "Ed,edd,eddy",
         },
         200: {
-            question_text: "THIS ROBOT BOUNTY HUNTER WAS HIRED TO FIND THE MILLENNIUM FALCON IN THE EMPIRE STRIKES BACK",
-            answer_text: "Who is IG-88 or 4-LOM?"
+            question_text: "Going ghost!",
+            answer_text: "Danny Phantom"
         },
         300: {
-            question_text: "ROBOTS B.O.B. AND V.I.N.C.E.N.T. PROVIDED SOME COMIC RELIEF IN THIS DARK 1979 DISNEY SCI-FI FILM",
-            answer_text: "What is The Black Hole?"
+            question_text: "Come grrr, ahh curse you dib",
+            answer_text: "Invader zim"
         },
         400: {
-            question_text: "CHRIS JERICHO HOSTED THIS AUTOMATON FIGHTING COMPETITION ON SYFY IN EARLY 2013",
-            answer_text: "What is Robot Combat League?"
+            question_text: "Stupid kenny!",
+            answer_text: "South park"
         },
         500: {
-            question_text: "HE'S THE ROBOT WHO GETS ELECTROCUTED AND COMES TO LIFE IN 1986'S SHORT CIRCUIT",
-            answer_text: "Who is Johnny 5/Number 5?"
+            question_text: "This is the sweet life!",
+            answer_text: "Sweet life on deck"
         }
     },
     {
-        category: "Nicknames",
+        category: "Video Games",
         100: {
-            question_text: "MINECRAFT CREATOR MARKUS PERSSON IS BETTER KNOWN BY THIS MONOSYLLABIC NICKNAME",
-            answer_text: "What is Notch?",
+            question_text: "Did angel vent?",
+            answer_text: "Amoung us",
         },
         200: {
-            question_text: "IT'S THE ALTER EGO OF PENNY ARCADE'S MIKE KRAHULIK - AND THE NAME OF MIKE'S SON",
-            answer_text: "What is Gabe?"
+            question_text: "Can fire shutgun lose?",
+            answer_text: "NO"
         },
         300: {
-            question_text: "ESPORTSCASTER AND MACHINIMA PERSONALITY RYAN WYATT IS BEST KNOWN BY THIS SHORT NICKNAME",
-            answer_text: "What is Fwiz?"
+            question_text: "What company invented mincraft",
+            answer_text: "mojang"
         },
         400: {
             question_text: "IN ADDITION TO \"CLIFFYB\", CLIFF BLESZINSKI IS SOMETIMES KNOWN BY THIS LARGE NICKNAME, BRO",
             answer_text: "What is Dude Huge?"
         },
         500: {
-            question_text: "LARRY HRYB BORROWED HIS GAMERTAG, \"MAJOR NELSON\", FROM THIS 1960S SITCOM",
-            answer_text: "What is I Dream of Jeannie?"
+            question_text: "Which call of duty team specialize in zombies?",
+            answer_text: "Treyarch"
         }
     },
     {
-        category: "Famous first words",
+        category: "Fears and phobia",
         100: {
-            question_text: "\"BITE MY SHINY METAL ASS\"",
-            answer_text: "Who is Bender?",
+            question_text: "Fear of spiders",
+            answer_text: "Arachnophobia",
         },
         200: {
-            question_text: "\"WHY, YOU SLIMY, DOUBLE-CROSSING, NO-GOOD SWINDLER. YOU GOT A LOT OF GUTS COMING HERE, AFTER WHAT YOU PULLED\"",
-            answer_text: "Who is Lando Calrissian?"
+            question_text: "fear of the undead",
+            answer_text: "Kinemortophobia"
         },
         300: {
-            question_text: "\"LISTEN TO MY STORY. THIS MAY BE OUR LAST CHANCE.\"",
-            answer_text: "Who is Tidus?"
+            question_text: "fear of snakes",
+            answer_text: "Ophidiophobia"
         },
         400: {
-            question_text: "\"FARMBOY, POLISH MY HORSE'S SADDLE. I WANT TO SEE MY FACE SHINING IN IT BY MORNING\"",
-            answer_text: "Who is Princess Buttercup?"
+            question_text: "fear of coding",
+            answer_text: "programmophobia"
         },
         500: {
-            question_text: "\"THIS IS IT. THIS IS WHERE FORRESTAL CASHED IN HIS CHIPS\"",
-            answer_text: "Who is Indiana Jones?"
+            question_text: "fear of falling getting robbed",
+            answer_text: "Kleptophobia"
         }
     },
     {
